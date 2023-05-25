@@ -7,7 +7,7 @@ class Fruit:
     def get_by_name(self):
         return f"This is {self.name}"
     def find_by_quantity(self):
-        return f"The {self.name} color is  {self.weight}"
+        return f"The {self.name} and weighs  {self.weight}"
     def find_by_price(self):
         
         return f" the price is{self.price}"
